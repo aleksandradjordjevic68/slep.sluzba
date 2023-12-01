@@ -371,7 +371,7 @@ main{
 	font-family: Bahnschrift;
 }
 #pozadinska-o-nama{
-	background-image: url('images/onama.jpg');
+	background-image: url('/images/onama.jpg');
 	background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
